@@ -1,0 +1,22 @@
+/* @media screen and  (max-width:500px){
+    .navigation{    
+        flex-direction: column;
+        margin-bottom: 51x;
+        height: 123px;
+
+    }
+    .nav-left{
+        text-align: center;
+        flex-direction: column;
+    }
+    .nav-left span img {
+        height: 40px;
+        width: 40px;
+        margin-top: 0px;
+    }
+    .content-right img{
+        display: none;
+    }
+    
+}
+     */
